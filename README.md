@@ -26,4 +26,5 @@ Credit Card Analysis of Czech Bank Using Power BI
 # Conclusion
 
 By utilizing Power BI's advanced visualization tools, the "Credit Card Analysis of Czech Bank" provides a comprehensive overview of customer behaviour, credit card distribution, and financial transactions. These insights enable the bank to make data-driven decisions regarding marketing strategies, customer segmentation, and product offerings. The visualizations also help identify opportunities for targeted interventions to enhance customer satisfaction and optimize financial performance.
-![image](https://github.com/user-attachments/assets/5e5b0b96-2216-4ab9-9e3d-429e77453941)
+(https://pdf.ac/21mcbf)
+
